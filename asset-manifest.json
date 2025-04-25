@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/myport-react/static/css/main.1d6c2e5b.css",
-    "main.js": "/myport-react/static/js/main.91861b9d.js",
-    "static/js/592.41c58759.chunk.js": "/myport-react/static/js/592.41c58759.chunk.js",
-    "static/media/Weather.png": "/myport-react/static/media/Weather.653f1c78c86a636b1d97.png",
-    "static/media/MusicWeb.png": "/myport-react/static/media/MusicWeb.e088c970312f2162407d.png",
-    "static/media/logo.jpeg": "/myport-react/static/media/logo.7174a6c83a15fe5b8332.jpeg",
-    "index.html": "/myport-react/index.html",
-    "main.1d6c2e5b.css.map": "/myport-react/static/css/main.1d6c2e5b.css.map",
-    "main.91861b9d.js.map": "/myport-react/static/js/main.91861b9d.js.map",
-    "592.41c58759.chunk.js.map": "/myport-react/static/js/592.41c58759.chunk.js.map"
+    "main.css": "/MyPortfolio-react/static/css/main.1d6c2e5b.css",
+    "main.js": "/MyPortfolio-react/static/js/main.6879ae9b.js",
+    "static/js/592.41c58759.chunk.js": "/MyPortfolio-react/static/js/592.41c58759.chunk.js",
+    "static/media/Weather.png": "/MyPortfolio-react/static/media/Weather.653f1c78c86a636b1d97.png",
+    "static/media/MusicWeb.png": "/MyPortfolio-react/static/media/MusicWeb.e088c970312f2162407d.png",
+    "static/media/logo.jpeg": "/MyPortfolio-react/static/media/logo.7174a6c83a15fe5b8332.jpeg",
+    "index.html": "/MyPortfolio-react/index.html",
+    "main.1d6c2e5b.css.map": "/MyPortfolio-react/static/css/main.1d6c2e5b.css.map",
+    "main.6879ae9b.js.map": "/MyPortfolio-react/static/js/main.6879ae9b.js.map",
+    "592.41c58759.chunk.js.map": "/MyPortfolio-react/static/js/592.41c58759.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d6c2e5b.css",
-    "static/js/main.91861b9d.js"
+    "static/js/main.6879ae9b.js"
   ]
 }
