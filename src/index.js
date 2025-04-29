@@ -6,10 +6,11 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Footer from './components/Footer';
-import Experience from './components/Experience';
+import Education from './components/Education';
 import About from './components/About';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
+import Skills from './components/Skills';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,7 +18,8 @@ root.render(
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='/experience' element={<Experience/>}/>
+        <Route path='/experience' element={<Education/>}/>
+        <Route path='/skills' element={<Skills/>}/>
         <Route path='/projects' element={<Projects/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/contact' element={<Contact/>}/>

@@ -4,6 +4,7 @@ import { name } from '../constants';
 import { motion } from "framer-motion";
 import Background from './Background';
 import Footer from './Footer';
+import About from './About';
 
 const Home = () => {
 
@@ -40,6 +41,7 @@ const Home = () => {
 					<p className='mt-3 text-xl'>I love to learn and build scalable and optimized backend systems.</p>
 				</div>      
 			</div>
+			
 			<Footer/>
 		</div>	
 	);

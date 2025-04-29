@@ -2,7 +2,8 @@ import { BrowserRouter ,Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Footer from './components/Footer';
-import Experience from './components/Experience';
+import Education from './components/Education';
+
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
-        <Route path='/experience' element={<Experience/>}/>
+        <Route path='/experience' element={<Education/>}/> 
       </Routes>
       <Footer/>
     </BrowserRouter>

@@ -1,46 +1,58 @@
-
+import logo from './assets/logo.jpeg'
 export const services = [
     {
-        title: "Technology Enthusiast",
+        title: "FrontEnd",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Software Engineer",
+        title: "BackEnd",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Photographer",
+        title: "Software Developer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Nilesh';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'course': ' (B.C.A)Bachelor of Computer Application',
+        'institute': '(CVRU) Dr.C.V. Raman University',
+        'duration': 'Jun 2021 - May 2024',
+        'logo': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAndHipk7kSF9brx6mDu-xUq-chV1iQ9sZNQ&s',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Completed BCA from Dr. C.V. Raman University 🎓.',
+            'Gained strong foundational knowledge in computer applications 💡.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://cvru.ac.in/',
+    },
+   { 'course': 'Front End',
+    'institute': 'Groot Academy',
+    'duration': 'Jan. 2024 - Jul. 2024',
+        'logo': 'https://play-lh.googleusercontent.com/025_9D-SwtbLA_piGbNk8qb-UnOD4ntlDOTRXWz0jYzWS68LMqh4DymHm4kJtUx3tHQ3=w240-h480-rw',
+        'points': [
+            'Strong foundation in HTML, CSS, and Bootstrap for responsive design 🎨',
+            'Proficient in JavaScript for dynamic and interactive web applications ⚡',
+            'Skilled in React JS for building modern, fast, and scalable UIs ⚛️'
+        ],
+        'url': 'https://grootacademy.com/?srsltid=AfmBOoqlVcE2Q0H0xe5WuXZLLBe0CTzfcPq-uzf0Z7B-h5fy8ix9FRSZ',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
+        'institute': 'Coding Jet',
+        'course': 'Java',
+        'duration': 'Nov. 2024 - Present',
+        'logo': 'https://play-lh.googleusercontent.com/rJk6Xwx8_77lEKRJBoHHJVbejV80DJUe_3OZVknMFgt7JN1ttUXqGwefGEQIq7K0je0=w240-h480-rw',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            'Completed Java Course from Coding Jet ✅',
+            'Learning DSA to strengthen problem-solving skills 🧩',
+            'Exploring Spring Boot for backend development 🚀',
+            'Building expertise in full-stack development 💻.'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.codingjet.in/',
     },
+
 ]
 
 

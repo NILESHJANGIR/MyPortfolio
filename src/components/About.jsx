@@ -32,13 +32,13 @@ const About = () => {
         <div className='flex flex-col justify-around'>
           <div className='sm:px-16 px-2'>
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Introduction</h2>
-            <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>👨‍💻 Hi, I'm Manda Nithin, a 2023 graduate🎓 with a passion for crafting robust backend systems and captivating mobile applications.As a seasoned <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/nithin-manda-728019214/' target='_blank'>Software developer</a> I specialize in both MEAN and MERN stacks🚀.
+            <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>👨‍💻 Hi, I'm Jangir Nilesh, a 2024 graduate🎓 with a passion for crafting robust backend systems and captivating mobile applications.As a seasoned <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/nilesh-jangir-b54a562b6/' target='_blank'>Software developer</a> I specialize in both FrontEnd and BackEnd🚀.
               <br />
-              ✍️ Beyond coding, I love sharing my insights and experiences through engaging blogs on <a className=' text-purple-300 hover:text-purple-400 duration-300' href="https://medium.com/@goudnithin77" target='_blank'>Medium</a>, where I delve into the intricacies of software development and technology trends.
+              ✍️ Beyond coding, I love sharing my insights and experiences through engaging blogs on <a className=' text-purple-300 hover:text-purple-400 duration-300' href="https://github.com/NILESHJANGIR" target='_blank'>Github</a>, where I delve into the intricacies of software development and technology trends.
               On a different note, I'm also into photography📸. It's not just a hobby; I see it as a way to capture moments🌟📷, tell stories.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/19Vh0nx5JF9G_sgawb_dUIFlGSHtjp_dw/view?usp=drive_link'
+              url='https://drive.google.com/file/d/1Y12jPqn9QL8OCfKSYEX2pUgHRhrv4uiT/view?usp=sharing'
               text='View Resume →'
               padding={`p-3`}
             />
